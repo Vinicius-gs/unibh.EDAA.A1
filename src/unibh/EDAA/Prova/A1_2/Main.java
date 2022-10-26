@@ -21,8 +21,9 @@ public class Main {
 		a.qtd_element_vazio();
 		
 		//E)Implemente a função de inserção que aumente  de tamanho para caber mais posições. Toda vez que a estrutura estiver cheia ela deve aumentar em 5 posições.
-		//a.novoTamanho();
+		a.novoTamanho();
 		
+		//G) Crie um método para inserção de um novo aluno na primeira posição da estrutura
 		a.addPrimeiro("Vinicius ", 1010, " TI");
 		
 	}

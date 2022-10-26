@@ -1,0 +1,3 @@
+ As pilhas e as filas são estruturas lineares para inserção e remoção de itens porém a pilha segue o princípio LIPO _ Last In First Out, ou seja, o último elemento é o primeiro a sair da pilha enquanto a fila segue o princípio FIFO - First In First Out, sendo o primeiro elemento da pilha o primeiro a sair. Sendo que ambas as estruturas podem ser implementadas utilizando arrays ou listas encadeadas. 
+A diferença para as lista encadeadas é que elas são armazenadas de forma sequencial utilizando a estrutura de nós que conecta ao próximo nó na lista.
+O nó é uma estrutura composta por campo de informação e um campo de endereço. 
